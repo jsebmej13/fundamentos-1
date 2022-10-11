@@ -1,0 +1,9 @@
+body{
+    background-color: #f3f3f3 ;
+}
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    color: #480f38;
+    text-align: center;
+}
